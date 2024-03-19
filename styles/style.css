@@ -284,7 +284,7 @@ ol {
 
 .button:active,
 .content__card-link:active,
-.content__card-link_current:active {
+.content__card-link_current {
   text-decoration: none;
   background-color: #545050;
 }
