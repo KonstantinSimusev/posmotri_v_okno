@@ -86,7 +86,7 @@ ol {
   display: grid;
   grid-template-columns: 225px auto 194px;
   padding-block-start: 16px;
-  padding-block-end: 23px;
+  /* padding-block-end: 23px; */
 }
 
 .search-form__fieldset {
@@ -172,7 +172,7 @@ ol {
   display: grid;
   grid-template-rows: auto 298px;
   gap: 26px;
-  padding-block-end: 23px;
+  /* padding-block-end: 23px; */
 }
 
 /* CONTENT TITLE */
